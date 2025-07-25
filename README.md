@@ -1,6 +1,4 @@
-# 🧠 Nurdd NLP Engineer Assignment
-
-Assignment completed as part of the hiring process at Nurdd for an NLP Engineer role.
+# A Project for NLP Engineer role.
 
 ## ✅ Included Tasks
 
